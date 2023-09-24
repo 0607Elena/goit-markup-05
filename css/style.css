@@ -704,8 +704,8 @@ backdrop.is-hidden .modal {
 
 
 .modal-title {
-  padding: 48px 24px 16px;
-  color: var(--NAVY-BLUE, #2E2F42);
+padding: 48px 24px 16px;
+color: var(--NAVY-BLUE, #2E2F42);
 text-align: center;
 font-size: 16px;
 font-weight: 500;
