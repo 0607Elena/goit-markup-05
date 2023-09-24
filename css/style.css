@@ -571,6 +571,12 @@ ul {
 }
 
 
+.subscribe-form {
+  display: flex;
+  gap:24px;
+}
+
+
 
 .E-mail {
   width: 264px;
@@ -591,7 +597,7 @@ letter-spacing: 0.04em;
 }
 
 .button-subscribe {
-  display: inline-flex;
+  display: flex;
 justify-content: center;
 align-items: center;
 gap: 16px;
@@ -620,7 +626,7 @@ letter-spacing: 0.04em;
   transition: opacity 250ms ease-in-out, visibility 250ms ease-in-out;
 }
 
-is-hidden {
+.is-hidden {
   opacity: 0;
   visibility: hidden;
   pointer-events: none;
