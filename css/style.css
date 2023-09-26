@@ -639,12 +639,12 @@ border: none;
   opacity: 1; 
 }
 
-.is-hidden {
+is-hidden {
   opacity: 0;
   visibility: hidden;
   pointer-events: none;
 }
-.backdrop.is-hidden .modal {
+backdrop.is-hidden .modal {
   transform: scale(0); 
 }
 
