@@ -573,8 +573,11 @@ ul {
 
 .subscribe-form {
   display: flex;
+  
   gap:24px;
+  
 }
+
 
 .user-email {
   width: 264px;
@@ -637,7 +640,7 @@ border: none;
   opacity: 1; 
 }
 
-is-hidden {
+.is-hidden {
   opacity: 0;
   visibility: hidden;
   pointer-events: none;
