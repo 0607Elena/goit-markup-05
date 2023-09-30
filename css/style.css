@@ -618,7 +618,7 @@ border: none;
 }
 
 .twitter {
-  margin-left: 16px; 
+  
   fill: #fff;
   
 }
@@ -829,6 +829,7 @@ transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
   justify-content: center;
 align-items: center;
 fill: transparent;
+margin-right: 8px;
 
 }
 
@@ -843,13 +844,14 @@ fill: transparent;
   opacity: 1;
 }
   
+.modal-checkbox-input {
+}
+
 .modal-checkbox-icon {
   stroke-width: 1px;
 /* stroke: var(--NAVY-BLUE-modal, rgba(46, 47, 66, 0.40)); */
 /* fill: none; */
-opacity: 0.4;
-
-
+opacity: 1;
 
 
 }
